@@ -1,0 +1,47 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "noTitle": "No Title",
+    "noDescription": "No Description"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "username": "Username",
+    "resetPassword": "Reset Password",
+    "updatePassword": "Update Password",
+    "googleLogin": "Continue with Google",
+    "noAccount": "Don't have an account? Register",
+    "haveAccount": "Already have an account? Login",
+    "passwordMismatch": "Passwords do not match",
+    "checkEmail": "Check your email for the password reset link",
+    "error": "Authentication failed",
+    "googleError": "Google login failed"
+  },
+  "home": {
+    "title": "Easy Web Scraping",
+    "subtitle": "Enter a URL to automatically extract images, thumbnails, and summary information",
+    "enterUrl": "Enter URL to scrape...",
+    "scrape": "Scrape",
+    "scraping": "Scraping...",
+    "loginRequired": "Login required to save scraps",
+    "scrapError": "Failed to scrape URL. Please try again later."
+  },
+  "scrapbook": {
+    "title": "My Scraps",
+    "noScraps": "You haven't saved any scraps yet. Go to the home page to start scraping!",
+    "visit": "Visit",
+    "delete": "Delete"
+  },
+  "nav": {
+    "home": "Home",
+    "myScraps": "My Scraps",
+    "appName": "WebScraper"
+  }
+}
